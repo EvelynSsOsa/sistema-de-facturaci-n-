@@ -168,13 +168,13 @@ Este proyecto fue desarrollado con fines educativos para practicar:
 
 # 📸 Capturas del Proyecto
 
-Aquí puedes agregar screenshots de tu sistema:
+<img src="imagenes/orden.png" width="700">
 
-```bash
-📷 Pantalla principal
-📷 Generación de recibo
-📷 Calculadora
-```
+<img src="imagenes/guardando.png" width="700"> 
+
+<img src="imagenes/guardado.png" width="700">
+
+<img src="imagenes/recibo.png" width="700">
 
 ---
 
