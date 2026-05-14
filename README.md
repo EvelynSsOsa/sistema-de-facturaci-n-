@@ -96,11 +96,39 @@ La aplicación puede resetear completamente:
 
 ```bash
 📁 sistema-facturacion
- ┣ 📄 main.py
+ ┣ 📄 prueba_dos.py
+ ┣ 📄 pruebas.py
  ┣ 📄 README.md
 ```
 
+--- 
+
+# ⚠️ Versiones Incluidas en el Proyecto
+
+Este proyecto incluye dos versiones diferentes del sistema de facturación:
+
+## 📄 `pruebas.py`
+Primera versión del sistema.
+
+- Contiene la estructura principal del proyecto.
+- Algunas dimensiones de la interfaz aún no estaban completamente ajustadas.
+- Debido al tamaño de la ventana, algunos botones y parte de la calculadora no alcanzan a visualizarse correctamente.
+
 ---
+
+## ✅ `prueba_dos.py`
+Versión corregida y recomendada del sistema.
+
+- Se ajustaron las dimensiones de la ventana y los paneles.
+- Todos los botones ya son visibles correctamente.
+- La calculadora puede visualizarse completa.
+- Presenta una mejor distribución visual de los elementos de la interfaz.
+
+👉 Se recomienda ejecutar esta versión:
+
+```bash
+python prueba_dos.py
+```
 
 # ▶️ Cómo Ejecutar el Proyecto
 
