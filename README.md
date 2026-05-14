@@ -168,13 +168,13 @@ Este proyecto fue desarrollado con fines educativos para practicar:
 
 # 📸 Capturas del Proyecto
 
-<img src="imagenes/orden.png" width="700">
+<img src="orden.png" width="700">
 
-<img src="imagenes/guardando.png" width="700"> 
+<img src="guardando.png" width="700"> 
 
-<img src="imagenes/guardado.png" width="700">
+<img src="guardado.png" width="700">
 
-<img src="imagenes/recibo.png" width="700">
+<img src="recibo.png" width="700">
 
 ---
 
